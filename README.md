@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @cyxahob
-- 👀 I’m interested in programming code
-- 🌱 I’m currently learning HTML, CSS, JS, REACT 
-- 💞️ I’m looking to collaborate on newbies to get a practice
-- 📫 How to reach me https://t.me/trycyxahob
+# Hi, I'm Boris 👋
 
-<!---
-cyxahob/cyxahob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Python Backend Developer with experience building asynchronous Telegram bots and AI integrations.
+
+### 🛠️ Tech Stack:
+- **Languages:** Python, SQL
+- **Frameworks:** FastAPI, Aiogram
+- **Infrastructure:** Docker, Ubuntu, Nginx, systemd
+- **Databases:** PostgreSQL, SQLite
+- **AI/ML:** DeepSeek API, OpenAI API, Prompt Engineering
+- **Tools:** Git, GitHub, Selenium, Playwright
+
+### 📌 Featured Projects:
+- [**AI Telegram Bot**](https://github.com/cyxahob/ai-telegram-bot) – Asynchronous bot integrated with DeepSeek for code generation and Q&A.
+- [**Bot Web Interface**](https://github.com/cyxahob/bot-web-interface) – FastAPI + React dashboard for bot management and monitoring.
+
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/boris-sukhanov-b96ab4111) | [Email](mailto:motosuhanov@gmail.com)
